@@ -1,1 +1,3 @@
 # Sales-Analysis-SQL
+
+In order for technology companies to maximize sales by allocating resources towards different products, towards marketing to different people, and picking up on sales missed by competing companies, data analysis must be used and to find out how this can be done. Using this example [Kaggle Dataset for consumer electronic sales] (https://www.kaggle.com/datasets/rabieelkharoua/consumer-electronics-sales-dataset), the purpose of this project is to generate business insights using MySQL to potentially improve sales, improve marketing strategies, and improve customer satisfaction.
